@@ -11,4 +11,4 @@
 * 通过scontrol show job 和sacct查询作业的相关信息
 * 通过scancel取消已经提交的作业
 
-**关于作业调度系统的具体操作，请访问** [**软件目录-Slurm**](http://10.20.252.4/software/slurm/slurm.html) **使用帮助页面**
+**关于作业调度系统的具体操作，请访问** [**软件目录-Slurm**](software/slurm.md) **使用帮助页面**
